@@ -35,7 +35,7 @@ public class ShopApp {
 			ServerConfiguration config = ServerConfiguration
 					.builder()
 					.bindAddress(InetAddress.getLocalHost())
-					.port(8888)
+					.port(3030)
 					.build();
 			
 			WebServer ws = WebServer.create(config, routing);
