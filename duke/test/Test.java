@@ -1,4 +1,4 @@
-package oracle_java_explorer;
+package duke.test;
 
 public class Test {
 	public static void main(String[] args) {
